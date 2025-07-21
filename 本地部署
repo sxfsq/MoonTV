@@ -1,0 +1,4 @@
+1.安装环境依赖
+pnpm install
+2.启动运行
+pnpm run dev
