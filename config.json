@@ -84,6 +84,18 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    }.
+     "yutu": {
+      "api": "https//apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    },
+    "aosika": {
+      "api": "https//aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡"
+    },
+    "baiwan": {
+      "api": "https//api.baiwanapi.com/api.php/provide/vod",
+      "name": "百万资源网"
+    }   
   }
 }
